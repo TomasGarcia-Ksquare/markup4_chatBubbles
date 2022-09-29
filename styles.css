@@ -115,3 +115,7 @@ body{
 .seen{
     margin: 0;
 }
+
+.hourTxt.recived{
+    transform: translate(12px, 0px);
+}
